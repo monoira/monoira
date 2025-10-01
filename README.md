@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web Developer in Tbilisi, Georgia.  
 Interested in:  
-[OSS](https://www.youtube.com/watch?v=Ag1AKIl_2GM) - including GNU/Linux,  
+[Free Software](https://www.youtube.com/watch?v=Ag1AKIl_2GM) - including GNU/Linux,  
 B2C and B2B online businesses,  
 reading on my android-based [Onyx Boox Page](https://www.youtube.com/watch?v=nga9V06SRm8),  
 and other kinds of technologies.
@@ -17,11 +17,11 @@ and other kinds of technologies.
 | Tech     | Details                                                           |
 | -------- | ----------------------------------------------------------------- |
 | Frontend | React with Typescript                                             |
-| Backend  | Nestjs (formerly Expressjs)                                       |
+| Backend  | Nestjs (switched from Expressjs)                                  |
 | Database | PostgreSQL                                                        |
 | Editor   | VS Code with Vim, Github Copilot & Github Copilot Chat extensions |
 | Terminal | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)    |
 | OS       | Ubuntu (formerly Arch & Debian)                                   |
 
 Reach me at  
-tatarashviliirakli1@gmail.com
+`tatarashviliirakli1@gmail.com`
