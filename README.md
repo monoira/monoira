@@ -5,7 +5,7 @@ Interested in:
 [Free Software](https://www.youtube.com/watch?v=Ag1AKIl_2GM) - including GNU/Linux,  
 B2C and B2B online businesses,  
 reading on my android-based [Onyx Boox Page](https://www.youtube.com/watch?v=nga9V06SRm8),  
-and other kinds of technologies.
+and other kinds of technologies and [Talks](https://github.com/monoira/interesting).
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=monoira&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
