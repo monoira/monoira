@@ -12,7 +12,7 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 
 ---
 
-<div align="center">General overview of Tech I use - More In CV</div>
+<div align="center">General Overview of Technologies I Use - More in CV</div>
 
 ---
 
