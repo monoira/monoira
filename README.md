@@ -16,14 +16,14 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 
 ---
 
-| Tech     | Details                                                           |
-| -------- | ----------------------------------------------------------------- |
-| Frontend | React with Typescript                                             |
-| Backend  | Nestjs (switched from Expressjs)                                  |
-| Database | PostgreSQL                                                        |
-| Editor   | VS Code with Vim, Github Copilot & Github Copilot Chat extensions |
-| Terminal | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)    |
-| OS       | Ubuntu (formerly Arch & Debian)                                   |
+| Tech     | Details                                                                                                     |
+| -------- | ----------------------------------------------------------------------------------------------------------- |
+| Frontend | React with Typescript                                                                                       |
+| Backend  | Nestjs (switched from Expressjs)                                                                            |
+| Database | PostgreSQL                                                                                                  |
+| Editor   | VS Code with AI & Vim extensions via [VSCLazy](https://github.com/monoira/VSCLazy) for maximum productivity |
+| Terminal | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                              |
+| OS       | Ubuntu (formerly Arch & Debian)                                                                             |
 
 Reach me at  
 `tatarashviliirakli1@gmail.com`
