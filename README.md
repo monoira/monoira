@@ -1,4 +1,4 @@
-I'm a Full Stack Web Developer in Tbilisi, Georgia.  
+I'm a Full Stack Web Developer in Tbilisi, Georgia. [My Substack](https://monoira.substack.com/).  
 Interested in:  
 [Free Software](https://www.youtube.com/watch?v=Ag1AKIl_2GM) - including GNU/Linux,  
 B2C and B2B online businesses,  
