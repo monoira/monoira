@@ -19,7 +19,7 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | Tech     | Details                                                                                                     |
 | -------- | ----------------------------------------------------------------------------------------------------------- |
 | Frontend | React with Typescript                                                                                       |
-| Backend  | Nestjs (switched from Expressjs)                                                                            |
+| Backend  | Nestjs                                                                                                      |
 | Database | PostgreSQL                                                                                                  |
 | Editor   | VS Code with AI & Vim extensions via [VSCLazy](https://github.com/monoira/VSCLazy) for maximum productivity |
 | Terminal | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                              |
