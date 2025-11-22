@@ -12,13 +12,13 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 
 ---
 
-<div align="center">General Overview of Technologies I Use - More in CV</div>
+<div align="center">Tech Stack - More In CV</div>
 
 ---
 
 | Tech     | Details                                                                                                     |
 | -------- | ----------------------------------------------------------------------------------------------------------- |
-| Frontend | React with Typescript                                                                                       |
+| Frontend | Reactjs with Typescript                                                                                     |
 | Backend  | Nestjs                                                                                                      |
 | Database | PostgreSQL                                                                                                  |
 | Editor   | VS Code with AI & Vim extensions via [VSCLazy](https://github.com/monoira/VSCLazy) for maximum productivity |
