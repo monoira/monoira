@@ -22,7 +22,7 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | Database | PostgreSQL                                                                                                  |
 | Editor   | VS Code with AI & Vim extensions via [VSCLazy](https://github.com/monoira/VSCLazy) for maximum productivity |
 | Terminal | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                              |
-| OS       | Fedora (formerly Ubuntu, Debian & arch)                                                                     |
+| OS       | Fedora (formerly Ubuntu, Debian & Arch)                                                                     |
 
 Reach me at  
 `tatarashviliirakli1@gmail.com`
