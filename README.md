@@ -6,7 +6,6 @@ reading on my android-based [Onyx Boox Page](https://www.youtube.com/watch?v=nga
 and other kinds of technologies and [Talks](https://github.com/monoira/interesting).
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=monoira&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monoira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -23,7 +22,7 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | Database | PostgreSQL                                                                                                  |
 | Editor   | VS Code with AI & Vim extensions via [VSCLazy](https://github.com/monoira/VSCLazy) for maximum productivity |
 | Terminal | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                              |
-| OS       | Ubuntu (formerly Arch & Debian)                                                                             |
+| OS       | Fedora (formerly Ubuntu, Debian & arch)                                                                     |
 
 Reach me at  
 `tatarashviliirakli1@gmail.com`
