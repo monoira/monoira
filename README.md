@@ -7,7 +7,7 @@ B2C and B2B online businesses, Bicycling, Weightlifting,
 reading on my android-based ereader [Onyx Boox Page](https://www.youtube.com/watch?v=nga9V06SRm8),  
 and other kinds of technologies and [Talks](https://github.com/monoira/interesting).
 
-## Tech Stack - More In CV
+## tech stack - more in cv
 
 | Tech         | Details                                                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------------------- |
