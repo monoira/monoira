@@ -16,10 +16,10 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | Database     | PostgreSQL                                                                                              |
 | Extensions   | [WXT](https://wxt.dev/guide/introduction.html)                                                          |
 | Apps         | React Native                                                                                            |
-| Editor       | VS Code with Vim & AI extensions via [CVIMU](https://github.com/monoira/CVIMU) for maximum productivity |
-| Terminal     | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                          |
 | OS           | Fedora (formerly Ubuntu, Debian & Arch)                                                                 |
-| Productivity | Obsidian, Google Calendar, Todoist                                                                      |
+| Terminal     | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                          |
+| Editor       | VS Code with Vim & AI extensions via [CVIMU](https://github.com/monoira/CVIMU) for maximum productivity |
+| Productivity | Obsidian for notes and TODOs, Google Calendar for routine and events                                    |
 
 Message me at  
 `tatarashviliirakli1@gmail.com`
