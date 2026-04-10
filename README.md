@@ -19,7 +19,7 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | OS           | Fedora (formerly Ubuntu, Debian & Arch)                                                                 |
 | Terminal     | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                          |
 | Editor       | VS Code with Vim & AI extensions via [CVIMU](https://github.com/monoira/CVIMU) for maximum productivity |
-| Productivity | Obsidian for notes and TODOs, Google Calendar for routine and events                                    |
+| Productivity | Obsidian + Syncthing for notes and TODOs, Google Calendar for routine and events                        |
 
 Message me at  
 `tatarashviliirakli1@gmail.com`
