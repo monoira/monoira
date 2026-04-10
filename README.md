@@ -3,7 +3,7 @@
 I'm a Full Stack Web Developer in Tbilisi, Georgia.  
 Interested in:  
 OSS - including GNU/Linux,  
-B2C and B2B online businesses, Bicycling, Weightlifting,  
+SaaS, B2C, B2B, bicycling, weightlifting, swimming,  
 reading on my android-based ereader [Onyx Boox Page](https://www.youtube.com/watch?v=nga9V06SRm8),  
 and other kinds of technologies and [Talks](https://github.com/monoira/interesting).
 
