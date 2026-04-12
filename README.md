@@ -14,6 +14,7 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | Frontend     | Reactjs with Typescript                                                                                 |
 | Backend      | Nestjs                                                                                                  |
 | Database     | PostgreSQL                                                                                              |
+| Hosting      | Cloudflare for Frontend and domains, AWS with Docker for Backend                                        |
 | Extensions   | [WXT](https://wxt.dev/guide/introduction.html)                                                          |
 | Apps         | React Native                                                                                            |
 | OS           | Fedora (formerly Ubuntu, Debian & Arch)                                                                 |
