@@ -18,8 +18,9 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | Extensions   | [WXT](https://wxt.dev/guide/introduction.html)                                                          |
 | Apps         | React Native                                                                                            |
 | OS           | Fedora (formerly Ubuntu, Debian & Arch)                                                                 |
+| AI / LLM     | Copilot, Copilot Chat, OpenCode                                                                         |
+| Editor       | VSCode with [CVIMU](https://github.com/monoira/CVIMU) setup for maximum productivity                    |
 | Terminal     | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                          |
-| Editor       | VS Code with Vim & AI extensions via [CVIMU](https://github.com/monoira/CVIMU) for maximum productivity |
 | Productivity | Obsidian + Syncthing for notes and TODOs, Google Calendar for routine and events                        |
 
 Message me at  
