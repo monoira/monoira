@@ -16,7 +16,6 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | Database     | PostgreSQL                                                                                              |
 | Hosting      | Cloudflare for Frontend and domains, AWS with Docker for Backend                                        |
 | Extensions   | [WXT](https://wxt.dev/guide/introduction.html)                                                          |
-| Apps         | React Native                                                                                            |
 | OS           | Fedora (formerly Ubuntu, Debian & Arch)                                                                 |
 | AI / LLM     | Copilot, Copilot Chat, OpenCode                                                                         |
 | Editor       | VSCode with [CVIMU](https://github.com/monoira/CVIMU) setup for maximum productivity                    |
