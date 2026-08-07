@@ -20,7 +20,7 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | AI / LLM     | Copilot, Copilot Chat, OpenCode                                                                         |
 | Editor       | VSCode with [CVIMU](https://github.com/monoira/CVIMU) setup for maximum productivity                    |
 | Terminal     | Kitty with [kitty-tabs](https://github.com/monoira/kitty-tabs)                                          |
-| Productivity | Obsidian + Syncthing for notes and TODOs, Google Calendar for routine and events                        |
+| Productivity | Obsidian + Syncthing for notes and tasks, Google Calendar for daily routine and events                  |
 
 Message me at  
 `tatarashviliirakli1@gmail.com`
