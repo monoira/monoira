@@ -2,7 +2,8 @@
 
 I'm a Full Stack Web Developer in Tbilisi, Georgia.  
 Interested in:  
-OSS, Linux, SaaS, B2C, B2B,  
+OSS, Linux,  
+business (SaaS, B2C, B2B),  
 bicycling, weightlifting, cooking,  
 reading on my android-based ereader [Onyx Boox Page](https://www.youtube.com/watch?v=nga9V06SRm8),  
 and other kinds of technologies and [Talks](https://github.com/monoira/interesting).
