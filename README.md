@@ -13,7 +13,7 @@ and other kinds of technologies and [Talks](https://github.com/monoira/interesti
 | Tech         | Details                                                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------------------- |
 | Frontend     | Reactjs with Typescript                                                                                 |
-| Backend      | Nestjs                                                                                                  |
+| Backend      | Nestjs, .NET                                                                                            |
 | Database     | PostgreSQL                                                                                              |
 | Hosting      | Cloudflare for Frontend and domains, AWS with Docker for Backend                                        |
 | Extensions   | [WXT](https://wxt.dev/guide/introduction.html)                                                          |
